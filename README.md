@@ -1,6 +1,6 @@
 # news-temp
 
-<h2>technology used.</h2>
-<p>Html5</p>
-<p>Css3</p> 
-<p>Bootstrap-5</p>
+<h2>Technology Used.</h2>
+<p>HTML 5</p>
+<p>CSS 3</p> 
+<p>BootStrap 5</p>
