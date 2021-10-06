@@ -1,6 +1,4 @@
-<hr>
-# news-temp
-<hr>
+# News-Temp
 
 <h2>Technology Used.</h2>
 <p>HTML 5</p>
