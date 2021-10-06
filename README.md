@@ -1,4 +1,6 @@
+<hr>
 # news-temp
+<hr>
 
 <h2>Technology Used.</h2>
 <p>HTML 5</p>
